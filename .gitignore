@@ -3,4 +3,4 @@
 *.png
 *.bitmap
 *.bmp
-
+.DS_Store
