@@ -1,0 +1,64 @@
+table#t01{
+	width:100%;
+	height:20%;
+	color: #FFA500; 
+
+	/*margin-left:5em;  */
+}
+table#t02{
+	width:100%;
+	height:5%;
+	font-size:30px;
+	text-align:right; 
+	/*margin-left:5em;  */
+}
+#iv01{
+	margin-right: 3em;
+	color: #FFA500; 
+}
+#iv02{
+	margin-top: 1em;
+	height:3em;  
+}
+#t03{
+	 
+}
+p{
+	font-size:20px;
+}
+#name
+{
+	padding: 1em;
+	/*margin-left: 1em;*/
+}
+#comment
+{
+	padding: 4em;
+	/*margin-left: 1em;*/
+}
+#commenttext
+{
+	padding-top: 5em;
+	padding-left: 2em;
+	width: 63px;
+	font-size: 20px;
+	
+}
+#nametext{
+	margin-left:4em; 
+}
+#button{
+	margin-left: 5em;
+	padding: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
